@@ -1,6 +1,6 @@
 {
   "M82614": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Alexander Ganski, Großer Garten 2A, 96524 Föritztal, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "02-09-2025",
-    "deliveryDate": "05-09-2025",
+    "deliveryDate": "08-09-2025, 11:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
